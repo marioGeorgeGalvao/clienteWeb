@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/mysql-connector-java-5.1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/postgresql-9.0-801.jdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mario George/Desktop/QuartoPeriodoUnipe/ProjetoRibas/RestauranteAtual/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
